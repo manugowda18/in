@@ -15,7 +15,7 @@
   height: 114px;
   width: 114px;
   border-radius: 50%
-
+  border: solid 2px silver;  
 }
 
 .profile-name {
